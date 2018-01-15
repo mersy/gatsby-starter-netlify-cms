@@ -33,4 +33,7 @@ Todo
 Creating tags pages for blog posts | GatsbyJS  
 https://www.gatsbyjs.org/docs/adding-tags-and-categories-to-blog-posts/
 * RSSを出力する方法
+   * pluginがあるっぽい  
+Plugins | GatsbyJS  
+https://www.gatsbyjs.org/docs/plugins/
 * デザインを調整してみる
