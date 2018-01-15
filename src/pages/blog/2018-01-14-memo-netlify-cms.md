@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /memo_netlifycms
-title: memo netlify cms
+title: memo netlify cms / Gatsby
 date: 2018-01-14T11:13:34.623Z
 description: netlify cms メモ
 ---
@@ -34,6 +34,8 @@ Creating tags pages for blog posts | GatsbyJS
 https://www.gatsbyjs.org/docs/adding-tags-and-categories-to-blog-posts/
 * RSSを出力する方法
    * pluginがあるっぽい  
-Plugins | GatsbyJS  
+gatsby-plugin-feed  
+https://www.npmjs.com/package/gatsby-plugin-feed
+* Plugins  
 https://www.gatsbyjs.org/docs/plugins/
 * デザインを調整してみる
